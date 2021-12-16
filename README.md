@@ -53,7 +53,7 @@ Perfume Rice has several management functions to help managers easily manage pro
 ## Tech
 
 Perfume Rice uses a number of technologies such as:
-
+- [Java 8]
 - [Spring Boot FrameWork]
 - [HTML]
 - [CSS]
